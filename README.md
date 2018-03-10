@@ -2,10 +2,7 @@
 A feedforward neural network, built-from-scratch in Python. Helpful for understanding both the computational and structural side of a neural network.
 
 # Why PyNN?
-I built PyNN (pronounced "pine") to better understand how neural networks work. It's not hard to find other built-from-scratch neural networks online. However, these tend to be built to emphasize brevity. For example, see the following:
-* https://iamtrask.github.io/2015/07/12/basic-python-network/
-* http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
-While there's inherently nothing *wrong* with these, if you don't already understand how a feedforward neural network works, looking at those programs won't help you one bit. 
+I built PyNN (pronounced "pine") to better understand how neural networks work. It's not hard to find other built-from-scratch neural networks online. However, these tend to be built to emphasize brevity. For example, see the [here](https://iamtrask.github.io/2015/07/12/basic-python-network/) or [here](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/). While there's inherently nothing *wrong* with these, if you don't already understand how a feedforward neural network works, looking at those programs won't help you one bit. 
 
 Conversely, you can work with [Keras](https://keras.io/) or [Tensorflow](https://www.tensorflow.org/). These are both incredible tools, but they abstract away much of what's going on in the background. Therefore they too make it difficult to get a grasp of what's happening.
 
