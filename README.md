@@ -15,8 +15,9 @@ I created PyNN to bridge the gap between understanding the mathematics (i.e. com
 The following features are fully-implemented:
 * Quickly and easily create a feedforward neural network in just three lines of code:
 ```python
-# Instantiate a new neural network with an input layer consisting of 5 nodes, 3 hidden layers each with 10 nodes, and an
-# output layer with 1 node (binary classification)
+# Instantiate a new neural network with an input layer consisting of 
+# 5 nodes, 3 hidden layers each with 10 nodes, and an output layer 
+# with 1 node (binary classification)
 NN = feedForwardNN(5, (10, 3), 1)
 
 # Build the connectors between all layers
